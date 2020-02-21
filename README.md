@@ -25,9 +25,9 @@
 
 3 下载自己需要的语言库（官方已经训练好）到tessdata目录下
 
-![Path](Image\Path.png)
+![image](https://github.com/tiancai4652/IdentifyImageByTesseract/blob/master/Image/Path.png)
 
-![Chi](Image\Chi.png)
+![image](https://github.com/tiancai4652/IdentifyImageByTesseract/blob/master/Image/Chi.png)
 
 #### 简单使用：
 
@@ -63,7 +63,7 @@ tesseract [imagepath] [outputPath] -l [Language] [optional]
 
 做了一个不同psm参数识别同一张图片的具体对比：
 
-![sample](Image\sample.png)
+![image](https://github.com/tiancai4652/IdentifyImageByTesseract/blob/master/Image/Sample.png)
 
 
 
