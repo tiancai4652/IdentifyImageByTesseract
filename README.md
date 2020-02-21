@@ -63,7 +63,7 @@ tesseract [imagepath] [outputPath] -l [Language] [optional]
 
 做了一个不同psm参数识别同一张图片的具体对比：
 
-![image](https://github.com/tiancai4652/IdentifyImageByTesseract/blob/master/Image/Sample.png)
+![image](https://github.com/tiancai4652/IdentifyImageByTesseract/blob/master/Image/sample.png)
 
 
 
